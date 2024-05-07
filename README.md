@@ -1,5 +1,5 @@
 # Alura-AI
-Esse repositório foi criado para documentar o estudo na imersão IA da Alura.
+Esse repositório foi criado para documentar o estudo na imersão AI da Alura.
 
 # [Aula 1](Aula%201/Aula1.md)
 
