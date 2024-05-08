@@ -70,7 +70,7 @@ Utilizar a plataforma do gemini.google.com ou o aistudio.google.com para realiza
 - Advocacia: Resumir contratos, identificar cláusulas importantes ou gerar minutas de documentos.
 - Programação: Gerar código, criar testes unitários ou explicar trechos de código complexos.
 
-Desafio 2 (Opcional):
+Desafio 2:
 
 - Exportar seu histórico de navegação para uma planilha.
 - Utilizar o Gemini para analisar essa planilha e gerar um resumo dos sites mais acessados, classificando-os por tipo (entretenimento, trabalho, etc.) e quantidade de uso.

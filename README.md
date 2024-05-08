@@ -1,7 +1,7 @@
 # Alura-AI
 Esse repositório foi criado para documentar o estudo na imersão AI da Alura.
 
-# [Aula 1](Aula%201/Aula1.md)
+# [Aula 1 -  Mergulhando no Gemini](Aula%201/Aula1.md)
 
 Introdução ao Gemini: Apresentação do Gemini como um modelo de linguagem generativo (LLM) desenvolvido pelo Google, com capacidade de entender e gerar textos, interpretar imagens, traduzir idiomas e auxiliar em tarefas criativas e analíticas.
 
@@ -15,5 +15,24 @@ Introdução ao Google AI Studio: Apresentação do Google AI Studio como uma pl
 
 Desafios propostos:
 - Utilizar o Gemini ou o Google AI Studio para uma tarefa do seu dia a dia de trabalho, independente da sua área de atuação.
-- Analisar seu histórico de navegação com o Gemini para identificar padrões de uso e tirar conclusões sobre como você tem utilizado seu tempo.
+- Analisar seu histórico de navegação com o Gemini para identificar padrões de uso e tirar conclusões sobre como você tem utilizado seu tempo. 
+
+# Aula 2
+
+- Prompt Engineering
+- Padrões de Prompt
+- Parâmetros de Execução
+- Configuração de Segurança
+- Esforço da Google para melhorar a Alucinação
+
+Técnicas de Prompt
+
+- Zero-shot
+- Few-shot
+- Chain-of-
+
+
+
+
+
 
