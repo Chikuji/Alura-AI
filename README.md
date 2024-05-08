@@ -19,20 +19,16 @@ Desafios propostos:
 
 # Aula 2
 
-- Prompt Engineering
-- Padrões de Prompt
-- Parâmetros de Execução
-- Configuração de Segurança
-- Esforço da Google para melhorar a Alucinação
+Engenharia de Prompt: A aula 2 introduziu o conceito de engenharia de prompt, que é a arte de criar instruções claras e específicas para otimizar os resultados obtidos com modelos de linguagem como o Gemini.
 
-Técnicas de Prompt
+Técnicas de Prompt: Foram apresentadas diferentes técnicas de prompt, como Zero-Shot (sem exemplos), Few-Shot (com poucos exemplos) e Chain-of-Thought (cadeia de pensamento), demonstrando como cada uma pode ser aplicada em diferentes cenários.
 
-- Zero-shot
-- Few-shot
-- Chain-of-
+Especificidade e Clareza: É crucial ser o mais específico e claro possível ao escrever prompts. Isso ajuda o modelo a entender melhor o contexto e a gerar respostas mais relevantes e precisas.
 
+Exemplos práticos: A aula forneceu vários exemplos práticos de como usar as técnicas de prompt em áreas como marketing, programação, tradução e resolução de problemas matemáticos, mostrando como o Gemini pode ser aplicado em diferentes situações do dia a dia.
 
-
-
+Desafios propostos:
+- Usar a técnica Few-Shot com Chain-of-Thought para resolver um problema da vida real em sua área de atuação.
+- Usar a técnica Few-Shot com Chain-of-Thought para analisar títulos de notícias de um site favorito e pedir ao Gemini para sugerir um título para uma nova notícia.
 
 
