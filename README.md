@@ -17,7 +17,7 @@ Desafios propostos:
 - Utilizar o Gemini ou o Google AI Studio para uma tarefa do seu dia a dia de trabalho, independente da sua área de atuação.
 - Analisar seu histórico de navegação com o Gemini para identificar padrões de uso e tirar conclusões sobre como você tem utilizado seu tempo. 
 
-# Aula 2
+# [Aula 2](Aula%202/Aula2.md)
 
 Engenharia de Prompt: A aula 2 introduziu o conceito de engenharia de prompt, que é a arte de criar instruções claras e específicas para otimizar os resultados obtidos com modelos de linguagem como o Gemini.
 
@@ -31,7 +31,7 @@ Desafios propostos:
 - Usar a técnica Few-Shot com Chain-of-Thought para resolver um problema da vida real em sua área de atuação.
 - Usar a técnica Few-Shot com Chain-of-Thought para analisar títulos de notícias de um site favorito e pedir ao Gemini para sugerir um título para uma nova notícia.
 
-# Aula 3
+# [Aula 3](Aula%203/Aula3.md)
 
 
 Multimodalidade do Gemini: O Gemini se destaca por sua capacidade de trabalhar com diferentes modalidades de dados, como texto, áudio, imagem, vídeo e arquivos, de forma integrada. Isso permite realizar tarefas complexas que envolvem a análise e geração de conteúdo em diversos formatos.
