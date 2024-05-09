@@ -31,4 +31,18 @@ Desafios propostos:
 - Usar a técnica Few-Shot com Chain-of-Thought para resolver um problema da vida real em sua área de atuação.
 - Usar a técnica Few-Shot com Chain-of-Thought para analisar títulos de notícias de um site favorito e pedir ao Gemini para sugerir um título para uma nova notícia.
 
+# Aula 3
 
+
+Multimodalidade do Gemini: O Gemini se destaca por sua capacidade de trabalhar com diferentes modalidades de dados, como texto, áudio, imagem, vídeo e arquivos, de forma integrada. Isso permite realizar tarefas complexas que envolvem a análise e geração de conteúdo em diversos formatos.
+
+Prompts Estruturados: O AI Studio permite criar prompts estruturados em formato de tabela, facilitando a utilização de técnicas de few-shot learning para treinar o modelo com exemplos específicos e obter resultados mais precisos.
+
+Parâmetros de Controle: Diversos parâmetros, como temperatura, top_k e top_p, permitem ajustar o comportamento do modelo, controlando a criatividade, precisão e diversidade das respostas geradas.
+
+Filtros de Segurança: O AI Studio possui filtros de segurança que podem ser ajustados para bloquear conteúdos indesejados, como discurso de ódio, conteúdo sexual ou violento, garantindo a segurança e ética na utilização do modelo.
+
+Integração com Código: O Google Colab permite utilizar o Gemini por meio de código Python, abrindo caminho para a automação de tarefas, integração com aplicações e desenvolvimento de soluções personalizadas.
+
+Desafio proposto:
+- Teste o código Python no Google Colab para interagir com o Gemini e gerar uma resposta criativa para um prompt de sua escolha.

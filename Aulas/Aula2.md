@@ -1,3 +1,12 @@
+Esse resumo foi criado com suporte do Google AI Studio.
+
+Copie o diálogo do video https://www.youtube.com/watch?v=U0U78uwGtLQ
+
+![Transcrição do vídeo](image.png)
+
+Cole no AI Studio e peça para resumir, trazer os links citados, os testes com o Gemini, as sugestões de cenários para testar o Gemini, os desafios propostos, os próximos passos e o ponto mais importante da aula.
+
+
 ## Resumo da segunda aula da imersão de IA:
 
 Nesta aula, Paulo Silveira da Alura, Luciano do Google e Fabrício da Alura discutem o conceito de engenharia de prompt e como usá-lo para otimizar os resultados do Google AI Studio com o Gemini. Eles enfatizam a importância de instruções claras e específicas ao fazer prompts, usando exemplos de viagens ao Japão e programação. Diversas técnicas de prompt são apresentadas, incluindo Zero-Shot, Few-Shot e Chain-of-Thought, com exemplos práticos de como aplicá-las para tradução, classificação de e-mails e resolução de problemas matemáticos. 
